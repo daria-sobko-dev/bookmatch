@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/ol/:path*", "destination": "https://openlibrary.org/:path*" }]
+}
