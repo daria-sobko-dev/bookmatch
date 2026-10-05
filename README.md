@@ -2,7 +2,7 @@
 
 Describe the book you want in your own words, like *"a cozy mystery set in Japan"* or *"a sad story about friendship and growing up"*. BookMatch pulls **real books from the Open Library API** and re-ranks them with an **AI embedding model that runs in your browser**. No API key, no server costs, no rate-limited LLM.
 
-**Live demo:** https://YOUR-PROJECT.vercel.app
+**Live demo:** https://bookmatch-tau.vercel.app/
 
 ## How it works: retrieve, then re-rank
 
